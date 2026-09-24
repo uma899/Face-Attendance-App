@@ -2,7 +2,7 @@
 
 📸 Automated Attendance System using Face Recognition
 
-This is a web application built with Streamlit and PyTorch that automates the attendance process by recognizing faces from images, videos, and live camera feeds.
+This is a web application built with Streamlit and PyTorch that automates the attendance process by recognizing faces from images, videos, and live camera feed.
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0d93f027-1697-4ba4-9876-4372bec37996" />
 
 
